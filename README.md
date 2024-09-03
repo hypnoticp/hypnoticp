@@ -9,10 +9,10 @@
 <table align="center">
     <tr>
         <td>
-            <a href="https://github.com/LeoTan2004"><img src="https://github-readme-stats.vercel.app/api?username=LeoTan2004&theme=default&show_icons=true&hide_border=true&count_private=true" alt="stats"></a>
+            <a href="https://github.com/hypnoticp"><img src="https://github-readme-stats.vercel.app/api?username=hypnoticp&theme=default&show_icons=true&hide_border=true&count_private=true" alt="stats"></a>
         </td>
         <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoTan2004&hide_border=true" alt="langs">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hypnoticp&hide_border=true" alt="langs">
         </td>
     </tr>
 </table>
